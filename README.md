@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abhihaas Srimantula</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-                                                 🔭 I’m currently working on [LMS-Backend](https://abhihaas9391.github.io/E-Learning-Website/)
+🔭 I’m currently working on [LMS-Backend](https://abhihaas9391.github.io/E-Learning-Website/)
 
-                                                                 🌱 I’m currently learning **MERN Stack, DSA**
+🌱 I’m currently learning **MERN Stack, DSA**
 
-                                                         👯 I’m looking to collaborate with **Full Stack Web Developers**
+👯 I’m looking to collaborate with **Full Stack Web Developers**
 
-                                                              🤝 I’m looking for help with **MERN Stack Development**
+🤝 I’m looking for help with **MERN Stack Development**
 
-                             👨‍💻 All of my projects are available at [https://github.com/abhihaas9391?tab=repositories](https://github.com/abhihaas9391?tab=repositories)
+👨‍💻 All of my projects are available at [https://github.com/abhihaas9391?tab=repositories](https://github.com/abhihaas9391?tab=repositories)
 
-                                                                   💬 Ask me about **Front-end Development**
+💬 Ask me about **Front-end Development**
 
-                                                             📫 How to reach me **abhihaas_srimantula@srmap.edu.in**
+📫 How to reach me **abhihaas_srimantula@srmap.edu.in**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
