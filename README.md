@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhihaas Srimantula</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 🔭 I’m currently working on [LMS-Backend](https://abhihaas9391.github.io/E-Learning-Website/)
 
 🌱 I’m currently learning **MERN Stack, DSA**
 
-👯 I’m looking to collaborate with **Full Stack Web Developers**
+👯 I’m looking to collaborate with **Full Stack Python Developers**
 
 🤝 I’m looking for help with **MERN Stack Development**
 
