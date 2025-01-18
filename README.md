@@ -20,8 +20,6 @@ With a strong foundation in both Python and iOS development, I am committed to b
 
 ![Abhihaas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhihaas&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-##  HackerRank Stats
-[![Abhihaas's HackerRank Stats](https://www.hackerrank.com/profile/abhihaas/badge)](https://www.hackerrank.com/abhihaas)
 
 
 ## 💬 Let’s Connect!
