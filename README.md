@@ -11,10 +11,10 @@ With a strong foundation in both Python and iOS development, I am committed to b
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, Swift, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: Flask, Django, TensorFlow, scikit-learn, SwiftUI
-- **Databases**: SQLite, PostgreSQL
-- **Tools**: Git, GitHub, Xcode, VS Code, Jupyter Notebook
+- **Languages**: Python, Java, Swift, JavaScript, HTML, CSS
+- **Frameworks & Libraries**: Django, scikit-learn, SwiftUI
+- **Databases**: MySQL
+- **Tools**: Git, GitHub, VS Code, Jupyter Notebook
 
 ##  GitHub Stats
 
@@ -24,7 +24,5 @@ With a strong foundation in both Python and iOS development, I am committed to b
 
 ## 💬 Let’s Connect!
 
-- **LinkedIn**: [@abhihaas](https://linkedin.com/in/abhihaas)
-- **Twitter**: [@abhihaas_dev](https://twitter.com/abhihaas_dev)
-
+- **LinkedIn**: [@abhihaas](https://www.linkedin.com/in/abhihaas-srimantula)
 Feel free to check out my repositories and reach out to me for any collaboration or questions. Looking forward to connecting! 🚀
