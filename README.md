@@ -19,7 +19,7 @@ With a strong foundation in both Python and iOS development, I am committed to b
 ##  GitHub Stats
 
 ![Abhihaas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhihaas&show_icons=true&hide_title=true&count_private=true&hide=prs)
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhihaas9391&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhihaas9391&theme=transparent)](https://git.io/streak-stats)
 
 ## 💬 Let’s Connect!
 
