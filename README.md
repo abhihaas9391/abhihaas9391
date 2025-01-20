@@ -20,23 +20,6 @@ With a strong foundation in both Python and iOS development, I am committed to b
 
 ![Abhihaas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhihaas&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-## GitHub Contribution Stats
-
-Here are my GitHub contribution stats fetched via [Rigle API](https://api.rigle.co/github-streak/stats):
-
-- **Total Contributions:** [xxxx]
-- **First Contribution:** [xxxx-xx-xx]
-- **Longest Streak:**
-  - Start: [xxxx-xx-xx]
-  - End: [xxxx-xx-xx]
-  - Days: [xxxx]
-- **Current Streak:**
-  - Start: [xxxx-xx-xx]
-  - End: [xxxx-xx-xx]
-  - Days: [xxxx]
-
-Fetched dynamically from the API.
-
 
 ## 💬 Let’s Connect!
 
