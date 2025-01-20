@@ -18,7 +18,8 @@ With a strong foundation in both Python and iOS development, I am committed to b
 
 ##  GitHub Stats
 
-![Abhihaas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhihaas&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Abhihaas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhihaas&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&hide_border=true)
+
 ## GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abhihaas9391&theme=radical&hide_border=true)](https://git.io/streak-stats)
