@@ -11,8 +11,8 @@ With a strong foundation in both Python and iOS development, I am committed to b
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, Java, Swift, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: Django, scikit-learn, SwiftUI
+- **Languages**: Python, Java, JavaScript, HTML, CSS, MERN
+- **Frameworks & Libraries**: Django, scikit-learn, 
 - **Databases**: MySQL
 - **Tools**: Git, GitHub, VS Code, Jupyter Notebook
 
