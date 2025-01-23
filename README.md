@@ -1,10 +1,10 @@
 # Hi, I'm Abhihaas 👋
 
-Welcome to my GitHub profile! I'm a passionate Python developer, Machine Learning enthusiast, and iOS app developer. Here, you'll find repositories related to my personal projects, contributions, and more.
+Welcome to my GitHub profile! I'm a passionate Python developer, Machine Learning enthusiast. Here, you'll find repositories related to my personal projects, contributions, and more.
 
 ## 🚀 About Me
 
-I'm an enthusiastic learner focused on becoming proficient in Python, iOS app development, and machine learning.
+I'm an enthusiastic learner focused on becoming proficient in Python, and machine learning.
 Currently, I am diving into data structures and algorithms to strengthen my problem-solving skills. 
 I'm also honing my knowledge in backend development, while exploring Swift to build intuitive mobile applications. 
 With a strong foundation in both Python and iOS development, I am committed to becoming a versatile developer, ready to contribute to exciting and impactful projects.
