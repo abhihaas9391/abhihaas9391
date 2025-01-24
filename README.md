@@ -18,7 +18,7 @@ With a strong foundation in both Python and iOS development, I am committed to b
 
 ## GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhihaas9391)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhihaas9391)]
 
 ## 💬 Let’s Connect!
 
